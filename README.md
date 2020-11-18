@@ -1,5 +1,5 @@
 
-## Fragment Bottom Navigation UtS 
+## Fragment Bottom Navigation UTS 
 
 **Tampilan Home Fragment Bottom Navigation menggunakan Java**
 Menggunakan View Group Constraint Layout dan View Group , CardView , ImageView, TextView , Style XML
